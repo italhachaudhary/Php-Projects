@@ -1,5 +1,6 @@
 <h1>PHP and MySQL with CRUD Operations: Create, Read, Update, Delete</h1>
-First of All Create a Database named <strong>curd</strong>
+First of All install XAMPP for Localhost <br>
+and Create a Database named <strong>curd</strong>
 <br><br>
 1-<img src="db.png">
 
