@@ -3,7 +3,7 @@ First of All Create a Database named <strong>curd</strong>
 <br><br>
 1-<img src="db.png">
 
-Pase the following Commands in SQL section. It will Create a database table. 
+Paste the following Command in SQL section. It will Create a database table. 
 
 CREATE TABLE clients (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
